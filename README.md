@@ -10,4 +10,26 @@ CTF-渗透测试~工具合集
    - superdic(编码转换)
    - 编码转换
    - 进制转换
+- Web
+   - HackerBar(FireFox插件)
+   - Burpsuite()
+- 靶场环境
+   - DVWA
+   - Sqli-labs(new and old)
+   - XSS-labs
+- 漏洞扫描
+   - AWVS13
+- Reverse
+   - IDA pro(mac+win+new+old-chinese)
+- Pwn
+   - 010Editor
+- Webshell
+   - 中国菜刀
+   - Cknife
+   - AntSword
+----------
    
+ 
+ 
+ 
+ 

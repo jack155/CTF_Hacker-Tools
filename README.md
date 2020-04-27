@@ -13,6 +13,8 @@ CTF-渗透测试~工具合集
 - Web
    - HackerBar(FireFox插件)
    - Burpsuite()
+   - dirsearch~目录扫描
+   - 御剑
 - 靶场环境
    - DVWA
    - Sqli-labs(new and old)

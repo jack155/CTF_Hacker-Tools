@@ -12,9 +12,12 @@ CTF-渗透测试~工具合集
    - 进制转换
 - Web
    - HackerBar(FireFox插件)
-   - Burpsuite()
+   - Burpsuite(2020.1/2)
    - dirsearch~目录扫描
    - 御剑
+   - MantraPortable(渗透浏览器)
+   - Firefox 52.0.2 渗透便携版
+   - Fiddler (v4.6.1.5)_汉化版
 - 靶场环境
    - DVWA
    - Sqli-labs(new and old)
@@ -23,6 +26,7 @@ CTF-渗透测试~工具合集
    - AWVS13
 - Reverse
    - IDA pro(mac+win+new+old-chinese)
+   - jd-gui-1.6.6
 - Pwn
    - 010Editor
 - Webshell

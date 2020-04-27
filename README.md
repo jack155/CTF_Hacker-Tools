@@ -1,5 +1,5 @@
 # CTF_Hacker-Tools
-CTF-渗透测试~工具合集
+CTF-渗透测试~工具合集(持续更新)
 ## 说明
 ## Tools
 - Misc
